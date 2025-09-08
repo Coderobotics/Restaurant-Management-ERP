@@ -5,7 +5,7 @@ Restaurant Express provides a fully-integrated Front Office, Accounting, Back Of
 
 Restaurant Express is only a restaurant management software that provides a true end-to-end solution. The restaurant POS system is customizable to your business. Our Restaurant POS and Back Officer ERP is an affordable solution to help grow your business, from the easy to learn user interface that reduces the number of taps per transaction, to the robust scheduling and inventory tools. The KOT contains details such as table number, items ordered and quantity. In the billing division, it is the table number through which the corresponding KOTs are identified. Suppose if a guest of particular table orders 5 times, 5 different KOTs are prepared for that table and the total amount is obtained by the summation of all the KOTs of that table. The final bill contains all of KOT’s details and amounts issued to any particular table. Restaurant cooked food to be eaten elsewhere. It refers to prepared meals or other food items, purchased at a restaurant, that the purchaser intends to eat elsewhere. Home Delivery is the process of delivering goods from a source location to a predefined destination. Home delivery is often available for fast food and other convenience products, e.g. pizza delivery.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/07/RPOS-10.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738615544_c8e94cdbd0f5a2d3a7a2.webp">
 
 <b>Restaurant Management ERP has the following exciting features:</b>
 
@@ -33,5 +33,15 @@ Restaurant Express is only a restaurant management software that provides a true
 <li>Printing Reports</li>
 <li>SMS</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/restaurant-management-system-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/restaurant-express
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
